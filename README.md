@@ -1,2 +1,1 @@
-My first readme
-blings
+This file is mandatory in projects
